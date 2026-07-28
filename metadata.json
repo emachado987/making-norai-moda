@@ -1,0 +1,6 @@
+{
+  "name": "PatronIA - Tech Pack & Patronaje Industrial",
+  "description": "Análisis de visión por computador e IA para patronaje industrial, despiece vectorial de prendas y generación de Fichas Técnicas (Tech Packs).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
